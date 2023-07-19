@@ -1,0 +1,35 @@
+h2 {
+    color: rgb(59, 122, 65);
+}
+body {
+    background-color: aliceblue;}
+h1 {color: blue;}
+p {
+    color: blueviolet;
+}
+address{
+    background-color: aquamarine;
+}
+a:link{
+    color: green;
+    text-decoration: none;
+}
+a:active{
+    color: rgb(0, 162, 255);
+    text-decoration: none;
+}
+a:visited{
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    color: blueviolet;
+}
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+table{
+    border-spacing: 10px;
+}
